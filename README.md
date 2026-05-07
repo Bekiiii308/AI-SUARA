@@ -23,4 +23,4 @@ Mendorong kesetaraan gender dalam pengembangan teknologi.
 Mengurangi risiko bias dalam aplikasi AI di bidang pendidikan, kesehatan, dan pekerjaan.
 
 Menjadi referensi bagi pengembang dan peneliti untuk menciptakan sistem AI yang lebih adil.
-<img width="625" height="500" alt="download" src="https://github.com/user-attachments/assets/e88c7ed5-4e9e-45f2-aaa0-9d13f8f1195d" />
+
