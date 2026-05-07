@@ -3,7 +3,7 @@
 // ======================================================================
 const CONFIG = {
     // Nama file model AI yang sudah kalian download dari Colab
-    modelPath: './best.onnx', 
+    modelPath: 'best.onnx', 
     
     // GANTI INI dengan nama kelas kalian. 
     // PERHATIAN: Urutannya HARUS SAMA PERSIS dengan urutan di Roboflow!
